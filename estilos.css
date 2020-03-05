@@ -17,7 +17,11 @@ body{
 }
 
 header{
-background-color:#F1336D;
+font-size: 30px;
+font-family:"Lucida Handwriting";
+font-weight: normal;
+color: #F1419A;
+text-align: center;
 
 }
 
@@ -29,7 +33,7 @@ main{
 footer{
     font-size: 30px;
     font-family: "Lucida Handwriting";
-    color:#F661AC;
+    color: #F661AC;
     text-align: center;
 
 }
